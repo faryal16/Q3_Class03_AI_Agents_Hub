@@ -1,6 +1,6 @@
 # 🤖 AI Agent Assignment Hub
 
-[![🚀 Live Demo on Railway](https://img.shields.io/badge/Demo-Railway-purple?style=for-the-badge&logo=railway)](https://ai-agent-assignment-hub.up.railway.app)
+[![🚀 Live Demo on Railway](https://img.shields.io/badge/Demo-Railway-purple?style=for-the-badge&logo=railway)](https://ai-agents-hub-03.up.railway.app/)
 
 Welcome to the **AI Agent Assignment Hub** — a Chainlit-based chatbot application showcasing multiple specialized AI agents. Users can interact with various tools such as a product recommender, mood analyzer, and country info assistant — all in one seamless interface.
 
@@ -35,7 +35,7 @@ Welcome to the **AI Agent Assignment Hub** — a Chainlit-based chatbot applicat
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-agent-assignment-hub.git
+   git clone https://github.com/faryal16/Q3_Class03_AI_Agents_Hub.git
    cd ai-agent-assignment-hub
 
 ### 2. Create a .env file:
