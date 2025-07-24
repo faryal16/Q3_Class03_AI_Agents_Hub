@@ -1,4 +1,5 @@
-chainlit>=1.0.0
-openai-agent
+chainlit
+openai
 python-dotenv
 deep-translator
+openai-agents
